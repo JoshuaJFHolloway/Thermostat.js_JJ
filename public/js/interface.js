@@ -21,3 +21,4 @@ $('#temperature-reset').click(function() {
 });
 
 });
+
